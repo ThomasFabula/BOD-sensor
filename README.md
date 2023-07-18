@@ -1,6 +1,6 @@
 # BOD-sensor
 
-## BOD-Drucksensor
+## Pressure sensor
 - beam-on-diaphragm silicon sensor, 
 - laser-fabricated &amp; anisotropic etched pressure sensor,
 - variable Membrandicken unter Druckbelastung
